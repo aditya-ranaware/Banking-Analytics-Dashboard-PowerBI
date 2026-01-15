@@ -1,4 +1,4 @@
-# Banking-Analytics-Aashboard-PowerBI
+# Banking-Analytics-Dashboard-PowerBI
 ## Project Overview
 This project focuses on analyzing banking data to understand customer distribution, 
 account balances, transaction activity, loan exposure, and branch-level performance.
